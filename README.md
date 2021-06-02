@@ -17,10 +17,10 @@ QQ: 246553278
 - [ ] 学习容器技术的实现原理，学习虚拟机技术
 - [ ] 理清Java并发的OS并发的异同
 - [ ] 学习Java并发底层源码
-- [X] [阅读《操作系统导论》](/QPI740.html)
-- [X] [阅读《深入浅出HTTPS从原理到实战》](/QI78G0.html)
-- [X] [阅读《计算机网络-自顶向下方法》](/QQTKJ0.html)
-- [X] [阅读《深入理解Kafka-核心设计与实践原理》](/QQRN80.html)
+- [X] [阅读《操作系统导论》](https://fightinggg.github.io/QPI740.html)
+- [X] [阅读《深入浅出HTTPS从原理到实战》](https://fightinggg.github.io/QI78G0.html)
+- [X] [阅读《计算机网络-自顶向下方法》](https://fightinggg.github.io/QQTKJ0.html)
+- [X] [阅读《深入理解Kafka-核心设计与实践原理》](https://fightinggg.github.io/QQRN80.html)
 - [ ] 阅读《Kafka权威指南》
 - [ ] 阅读《HTTP权威指南》
 - [ ] 阅读《设计模式Java版》
