@@ -14,7 +14,8 @@ QQ: 246553278
 
 # 我的代办
 
-- [ ] 学习容器技术的实现原理，学习虚拟机技术
+- [x] [学习容器技术的实现原理](https://fightinggg.github.io/QRN6OO.html)
+- [ ] 学习虚拟机技术
 - [ ] 理清Java并发的OS并发的异同
 - [ ] 学习Java并发底层源码
 - [X] [阅读《操作系统导论》](https://fightinggg.github.io/QPI740.html)
@@ -24,7 +25,8 @@ QQ: 246553278
 - [ ] 阅读《Kafka权威指南》
 - [ ] 阅读《HTTP权威指南》
 - [ ] 阅读《设计模式Java版》
-- [ ] 阅读《自动动手写docker》
+- [x] [阅读《自动动手写docker》](https://fightinggg.github.io/QRN6OO.html)
+- [ ] 学习Linux操作系统的网络虚拟设备部分
 
 # 我的留言
 
