@@ -15,12 +15,12 @@ abbrlink: about
 
 QQ: 246553278
 
-# # Some Interesting links
+# Some Interesting links
 - [我的Blog](https://fightinggg.github.io)
 - [Polin OJ](http://fightinggg.top:8081)
 - ~~[CSDN](https://blog.csdn.net/qq_41157212?spm=1010.2135.3001.5343)~~
 
-# # TODO AND DONE
+# TODO AND DONE
 
 - [x] [学习容器技术的实现原理](https://fightinggg.github.io/QRN6OO.html)
 - [ ] 学习虚拟机技术
@@ -38,7 +38,7 @@ QQ: 246553278
 - [ ] [学习Flink](https://confucianzuoyuan.github.io/flink-tutorial/book/)
 - [ ] 不做一个[编译器](https://fightinggg.github.io/QV7MPO.html)，好意思说你学计算机？
 
-# # Nonsense
+# Nonsense
 
 - 2021.05.16
 
