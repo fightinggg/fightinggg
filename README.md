@@ -36,7 +36,8 @@ QQ: 246553278
 - [x] [阅读《自动动手写docker》](https://fightinggg.github.io/QRN6OO.html)
 - [ ] 学习Linux操作系统的网络虚拟设备部分
 - [ ] [学习Flink](https://confucianzuoyuan.github.io/flink-tutorial/book/)
-- [ ] 不做一个[编译器](https://fightinggg.github.io/QV7MPO.html)，好意思说你学计算机？
+- [x] 不做一个[编译器](https://fightinggg.github.io/QV7MPO.html)，好意思说你学计算机？
+- [ ] 学习DDOS攻防技术，阅读[破坏之王：DDoS攻击与防范深度剖析](https://weread.qq.com/web/reader/91e32f20597d6d91ebcf60f)
 
 # Nonsense
 
