@@ -33,11 +33,11 @@ QQ: 246553278
 - [ ] 阅读《Kafka权威指南》
 - [ ] 阅读《HTTP权威指南》
 - [ ] 阅读《设计模式Java版》
-- [x] [阅读《自动动手写docker》](https://fightinggg.github.io/QRN6OO.html)
+- [x] [阅读《自动动手写docker》](https://fightinggg.github.io/QRN6OO.html)， 制作自己的docker
 - [ ] 学习Linux操作系统的网络虚拟设备部分
 - [ ] [学习Flink](https://confucianzuoyuan.github.io/flink-tutorial/book/)
-- [x] 不做一个[编译器](https://fightinggg.github.io/QV7MPO.html)，好意思说你学计算机？
-- [ ] 学习DDOS攻防技术，阅读[破坏之王：DDoS攻击与防范深度剖析](https://weread.qq.com/web/reader/91e32f20597d6d91ebcf60f)
+- [x] 制作自己的[编译器](https://fightinggg.github.io/QV7MPO.html)
+- [x] 学习DDOS攻防技术，阅读[破坏之王：DDoS攻击与防范深度剖析](https://fightinggg.github.io/QZ0M0C.html)
 
 # Nonsense
 
