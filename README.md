@@ -37,7 +37,13 @@ QQ: 246553278
 - [ ] 学习Linux操作系统的网络虚拟设备部分
 - [ ] [学习Flink](https://confucianzuoyuan.github.io/flink-tutorial/book/)
 - [x] 制作自己的[编译器](https://fightinggg.github.io/QV7MPO.html)
-- [x] 学习DDOS攻防技术，阅读[破坏之王：DDoS攻击与防范深度剖析](https://fightinggg.github.io/QZ0M0C.html)
+- [x] 学习DDOS攻防技术，阅读[《破坏之王：DDoS攻击与防范深度剖析》](https://fightinggg.github.io/QZ0M0C.html)
+- [ ] 学习病毒攻防技术，阅读《计算机病毒原理与防范》
+- [x] 学习病毒攻防技术，阅读[《计算机病毒揭秘与对抗》](https://fightinggg.github.io/QZIIYO.html)
+- [ ] 学习K8S技术，阅读《Kubernetes权威指南：从Docker到Kubernetes实践全接触》
+- [ ] 学习Netty技术，阅读《Netty源码剖析与应用》
+- [ ] 学习Java GC技术，阅读《新一代垃圾回收器ZGC设计与实现》
+- [ ] 学习IKEv2协议，RFC7296
 
 # Nonsense
 
