@@ -44,6 +44,7 @@ QQ: 246553278
 - [ ] 学习Netty技术，阅读《Netty源码剖析与应用》
 - [ ] 学习Java GC技术，阅读《新一代垃圾回收器ZGC设计与实现》
 - [ ] 学习IKEv2协议，RFC7296
+- [x] 入门GO，阅读[《Go语言从入门到进阶实战（视频教学版）》](https://weread.qq.com/web/reader/24d323407155597024d28a7kc81322c012c81e728d9d180)
 
 # Nonsense
 
